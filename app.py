@@ -12,7 +12,6 @@ from io import BytesIO
 # Page configuration
 st.set_page_config(
     page_title="Financial Report Summarizer",
-    page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
 )
